@@ -3,34 +3,44 @@
     {
       "title": "Game of Thrones",
       "seasons": 8,
-      "url": "https://www.google.com"
+      "url": "https://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg"
     },
     {
       "title": "Vikings",
       "seasons": 7,
-      "url": "https://www.youtube.com"
+      "url": "https://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg"
     },
     {
       "title": "Man in the High Castle",
       "seasons": 5,
-      "url": "https://www.github.com"
+      "url": "https://www.gstatic.com/tv/thumb/tvbanners/17179466/p17179466_b_v8_aa.jpg"
+    },
+    {
+      "title": "The Mandalorian",
+      "seasons": 1,
+      "url": "https://www.gstatic.com/tv/thumb/tvbanners/17612208/p17612208_b_v8_aa.jpg"
     }
   ],
   "movies":[
     {
       "title": "Avengers: Endgame",
       "year": 2019,
-      "url": "https://www.google.com"
+      "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9"
     },
     {
       "title": "Inferno",
-      "year": 2017,
-      "url": "https://www.youtube.com"
+      "year": 2016,
+      "url": "https://www.movienewsletters.net/photos/167461R1.jpg"
     },
     {
       "title": "The King",
-      "year": 2020,
-      "url": "https://www.github.com"
+      "year": 2019,
+      "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd0Fts4jXb0kwZ9OjNOqkVoqViSZ_x7P6cE9g9SF1goUVBiJWv"
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS6eF-bVXb1sc6nPVCZ1Z_-M9UCKSKMwcJKDWOY8bQiHyxS_u-"
     }
   ]
 }
