@@ -1,0 +1,36 @@
+{
+  "tv":[
+    {
+      "title": "Game of Thrones",
+      "seasons": 8,
+      "url": "https://www.google.com"
+    },
+    {
+      "title": "Vikings",
+      "seasons": 7,
+      "url": "https://www.youtube.com"
+    },
+    {
+      "title": "Man in the High Castle",
+      "seasons": 5,
+      "url": "https://www.github.com"
+    }
+  ],
+  "movies":[
+    {
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "url": "https://www.google.com"
+    },
+    {
+      "title": "Inferno",
+      "year": 2017,
+      "url": "https://www.youtube.com"
+    },
+    {
+      "title": "The King",
+      "year": 2020,
+      "url": "https://www.github.com"
+    }
+  ]
+}
